@@ -18,8 +18,10 @@ By [Pete Mitchell](https://github.com/petemmitchell).
 Using the finder only requires you to pass in which number in the sequence you would like to find.
 
 ```ruby
-Fibonacci.nth(3) # => 2
+Fibonacci.nth(1) # => 1
 Fibonacci.nth(10) # => 55
+Fibonacci.nth(15) # => 610
+Fibonacci.nth(20) # => 6765
 ```
 
 ## Accreditation
